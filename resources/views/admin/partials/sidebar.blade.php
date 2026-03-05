@@ -5,8 +5,8 @@
                 <h3 class="text-white fw-bold"><i class="bi bi-wifi"></i> Bayarin</h3>
                 <p class="text-white-50 small">Admin Dashboard</p>
             </div>
-
-            <!-- Menu Navigasi -->
+ 
+            <!-- Menu Navigasi --> 
             <ul class="nav flex-column px-3 flex-grow-1">
                 <li class="nav-item">
                     <a class="nav-link {{ Request::is('admin/dashboard*') ? 'active' : '' }}" href="{{ url('admin/dashboard') }}">

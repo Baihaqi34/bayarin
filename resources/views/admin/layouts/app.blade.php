@@ -190,10 +190,10 @@
             .sidebar {
                 min-height: auto;
                 position: static;
-            }
+            }  
             
-            .main-content {
-                padding: 15px;
+            .main-content {  
+                padding: 15px;  
             }
         }
     </style>
